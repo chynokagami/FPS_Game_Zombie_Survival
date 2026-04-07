@@ -1,0 +1,10 @@
+# Unreal Engine 忽略清单
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+# 可选：如果你使用 VS 或 Rider，忽略它们的本地缓存
+.vs/
+.idea/
+*.sln
+*.suo
