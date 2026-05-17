@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README.md">English</a> | <a href="README_ja.md">日本語</a>
+</div>
+
 # 🧟 限时丧尸生存 (Zombie Time Attack FPS)
 
 基于 **Unreal Engine 5.4.4** 开发的一款第一人称射击（FPS）游戏。玩家需要在无情的倒计时结束前，利用手中的武器抵御丧尸的进攻，并在限时内尽可能多地消灭敌人。
