@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="README.md">简体中文</a> | <strong>English</strong> | <a href="README_ja.md">日本語</a>
+  <a href="README_zh.md">简体中文</a> | <strong>English</strong> | <a href="README_ja.md">日本語</a>
 </div>
 
 # 🧟 Zombie Time Attack FPS
